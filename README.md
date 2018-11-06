@@ -47,6 +47,8 @@
         promise+axios封装ajax请求的函数
         封装每个接口对应的请求函数(能根据接口定义ajax请求函数)
         解决ajax的跨越域问题: 配置代理, 对代理的理解
+        代理是什么?
+
     vuex编码
         创建所有相关的模块: store/index|state|mutations|actions|getters|mutation-types
         设计state: 从后台获取的数据
